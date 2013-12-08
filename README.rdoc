@@ -1,0 +1,3 @@
+= Bootstrap3Rails
+
+This project rocks and uses MIT-LICENSE.
